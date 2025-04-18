@@ -1,0 +1,15 @@
+.detail-title {
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .detail-image {
+    width: 100%;
+    max-width: 800px;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 20px;
+  }
